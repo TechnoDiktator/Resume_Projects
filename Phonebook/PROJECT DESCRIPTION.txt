@@ -1,0 +1,29 @@
+IDE USED - ECLIPSE
+Stack - Java(JSP ,  Servlet) , MySQL(WorkBench) , HTML , CSS(BootStrap 4)
+
+Project Details-
+
+Entities - User ,  Contact
+A single user can have many contacts
+
+
+
+1. A simple java webapp that lets users store their contacts and/or edit , delete them
+2. Contains a login page , Register page  , Contacts page  ,  Add Contacts page 
+
+User can register onto the webapp
+The register info is sent to a database
+This info can be used for login
+The user can then add contacts to his profile which can then also edited or deleted
+
+
+
+
+
+
+
+
+
+
+
+ 
