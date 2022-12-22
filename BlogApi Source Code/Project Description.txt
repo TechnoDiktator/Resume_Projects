@@ -1,0 +1,13 @@
+Project 1 : Blogging Api 
+
+DEPLOYED ON AWS
+
+A Restful backend API built on springboot framework that allows users to 
+Register as a user 
+Login as a registered user
+Create Posts 
+Comment on existing posts
+Various Functionalities to manipulate cerated posts etc
+Backend : Java SpringBoot
+Database : MySQL
+Link- http://blogappproject-env.eba-pmqhseqp.ap-south-1.elasticbeanstalk.com/swagger-ui/index.html#/auth-controller
