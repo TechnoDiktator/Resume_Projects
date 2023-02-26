@@ -54,10 +54,24 @@ A simple REcat js based protfolio website that is single page webapp
 It details my journey as a professional
 Uses - JavaScript  , React.js basics 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 4 :
+A FlappyBird Clone made using Pygame 
+Features:
+	Collision
+	Blitting of assets(pipes , background)
+	Sounds 
+	events in pygame
+
+
+This is a clone of the widely used flappy bird game that i mader using the basics of pygamne
+
+	
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project 4 :
+Project 5 :
 CONTACT MANAGER APP
 A webapp that enables the user to save his/her contacts on a database . Contains a Login and Registration Module .
 Enables the user to delete and/or edit contacts thet the user has created 
