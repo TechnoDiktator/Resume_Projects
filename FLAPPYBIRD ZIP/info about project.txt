@@ -1,0 +1,11 @@
+A FlappyBird Clone made using Pygame 
+Features:
+	Collision
+	Blitting of assets(pipes , background)
+	Sounds 
+	events in pygame
+
+
+This is a clone of the widely used flappy bird game that i mader using the basics of pygamne
+
+	
