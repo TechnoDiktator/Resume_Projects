@@ -48,10 +48,16 @@ Module for editing and updating entity profiles
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
 Project 3 :
+REACT JS PORTFOLIO WEBSITE
+A simple REcat js based protfolio website that is single page webapp
+It details my journey as a professional
+Uses - JavaScript  , React.js basics 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project 4 :
 CONTACT MANAGER APP
 A webapp that enables the user to save his/her contacts on a database . Contains a Login and Registration Module .
 Enables the user to delete and/or edit contacts thet the user has created 
