@@ -8,6 +8,8 @@
 
 
 Project 1 : Blogging Api 
+Stack- Java , SPring (Spring REST , Spring Data JPA , Spring security , spring Boot , Hibernate ORM  , Spring Pagination and Security)
+API Documentation done using SWAGGER UI
 
 DEPLOYED ON AWS
 
@@ -34,6 +36,7 @@ IDE-Eclipse
 Database - Workbench
 A website which serves as a hospital functions website
 
+Stack
 Frontend – Html , CSS, Bootstrap , JavaScript, Bootstrap
 Backend – Servlet , JDBC
 Database – MySQL
@@ -54,9 +57,24 @@ A simple REcat js based protfolio website that is single page webapp
 It details my journey as a professional
 Uses - JavaScript  , React.js basics 
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project 4 :
+A TODO List App  -  A simple app to keep track of the Tasks that you perform during the day
+Stack - Django  , HTML , CSS 
+
+Features:
+	Login Logout Register pAge
+	Add , Create , Delete  , Update Tasks
+	Mark Task Status as complete or incomplete
+	
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 5 :
 A FlappyBird Clone made using Pygame 
 Features:
 	Collision
@@ -71,7 +89,8 @@ This is a clone of the widely used flappy bird game that i mader using the basic
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project 5 :
+
+Project 6 :
 CONTACT MANAGER APP
 A webapp that enables the user to save his/her contacts on a database . Contains a Login and Registration Module .
 Enables the user to delete and/or edit contacts thet the user has created 
